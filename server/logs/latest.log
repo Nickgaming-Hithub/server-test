@@ -216,3 +216,309 @@
 [21:42:55] [Thread-7/INFO]: UUID of player nickgaming is 0c9d3281-42e9-3f07-a536-0332b12f4238
 [21:42:55] [Server thread/INFO]: nickgaming[/[0:0:0:0:0:0:0:1]:33488] logged in with entity id 332 at ([world]116.18302761134166, 92.36933697604734, 135.80271515996992)
 [21:43:06] [Server thread/INFO]: nickgaming issued server command: /lac
+[21:44:54] [Server thread/INFO]: nickgaming issued server command: /gamemode s
+[21:44:54] [Server thread/INFO]: [nickgaming: Set own game mode to Survival Mode]
+[21:45:00] [Server thread/INFO]: nickgaming issued server command: /gamemode c
+[21:45:00] [Server thread/INFO]: [nickgaming: Set own game mode to Creative Mode]
+[21:45:12] [Server thread/INFO]: nickgaming lost connection: Disconnected
+[21:45:12] [Server thread/INFO]: nickgaming left the game.
+[21:49:48] [Thread-9/INFO]: UUID of player nickgaming is 0c9d3281-42e9-3f07-a536-0332b12f4238
+[21:49:48] [Server thread/INFO]: nickgaming[/[0:0:0:0:0:0:0:1]:48988] logged in with entity id 613 at ([world]128.83866620573616, 87.0, 114.9754730245004)
+[21:50:03] [Server thread/INFO]: nickgaming issued server command: /rtp
+[21:50:06] [Server thread/INFO]: nickgaming issued server command: /tpr
+[21:50:08] [Server thread/INFO]: nickgaming issued server command: /help
+[21:50:13] [Server thread/INFO]: nickgaming issued server command: /help simpletpa
+[21:50:37] [Server thread/INFO]: nickgaming issued server command: /tptoggle
+[21:50:42] [Server thread/INFO]: nickgaming issued server command: /tpatoggle
+[21:50:45] [Server thread/INFO]: nickgaming issued server command: /tpatoggle
+[21:51:00] [Server thread/INFO]: nickgaming lost connection: Disconnected
+[21:51:00] [Server thread/INFO]: nickgaming left the game.
+[21:51:52] [Thread-10/INFO]: UUID of player nickgaming is 0c9d3281-42e9-3f07-a536-0332b12f4238
+[21:51:52] [Server thread/INFO]: nickgaming[/[0:0:0:0:0:0:0:1]:50066] logged in with entity id 931 at ([world]126.79396510973164, 89.91972991638592, 124.24465350795273)
+[21:52:00] [Server thread/INFO]: nickgaming issued server command: /npc
+[21:52:03] [Server thread/INFO]: nickgaming issued server command: /help
+[21:52:07] [Server thread/INFO]: nickgaming issued server command: /help minecraft
+[21:52:11] [Server thread/INFO]: nickgaming issued server command: /help minecraft npc
+[21:52:13] [Server thread/INFO]: nickgaming issued server command: /help minecraft
+[21:52:15] [Server thread/INFO]: nickgaming issued server command: /help minecraft 2
+[21:52:17] [Server thread/INFO]: nickgaming issued server command: /help minecraft 3
+[21:52:25] [Server thread/INFO]: nickgaming issued server command: /help minecraft 4
+[21:52:31] [Server thread/INFO]: nickgaming issued server command: /help minecraft 5
+[21:52:35] [Server thread/INFO]: nickgaming issued server command: /help minecraft 6
+[21:52:44] [Server thread/INFO]: nickgaming issued server command: /help minecraft 7
+[21:52:48] [Server thread/INFO]: nickgaming issued server command: /summon
+[21:52:51] [Server thread/INFO]: nickgaming issued server command: /summon npc
+[21:52:51] [Server thread/WARN]: Skipping Entity with id npc
+[21:52:51] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:52:56] [Server thread/INFO]: nickgaming issued server command: /summon
+[21:53:02] [Server thread/INFO]: nickgaming issued server command: /summon npc ~ ~ ~
+[21:53:02] [Server thread/WARN]: Skipping Entity with id npc
+[21:53:02] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:53:16] [Server thread/INFO]: nickgaming issued server command: /summon npc
+[21:53:16] [Server thread/WARN]: Skipping Entity with id npc
+[21:53:16] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:53:21] [Server thread/INFO]: nickgaming issued server command: /summon villager
+[21:53:21] [Server thread/WARN]: Skipping Entity with id villager
+[21:53:21] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:53:31] [Server thread/INFO]: nickgaming issued server command: /summon wolf
+[21:53:31] [Server thread/WARN]: Skipping Entity with id wolf
+[21:53:31] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:53:36] [Server thread/INFO]: nickgaming issued server command: /summon enderman
+[21:53:36] [Server thread/WARN]: Skipping Entity with id enderman
+[21:53:36] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:53:41] [Server thread/INFO]: nickgaming issued server command: /summon enderman ~ ~ `
+[21:53:41] [Server thread/INFO]: [nickgaming: '`' is not a valid number]
+[21:53:43] [Server thread/INFO]: nickgaming issued server command: /summon enderman ~ ~ ~
+[21:53:43] [Server thread/WARN]: Skipping Entity with id enderman
+[21:53:43] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:53:46] [Server thread/INFO]: nickgaming issued server command: /gamemode c
+[21:53:46] [Server thread/INFO]: [nickgaming: Set own game mode to Creative Mode]
+[21:53:48] [Server thread/INFO]: nickgaming issued server command: /gamemode s
+[21:53:48] [Server thread/INFO]: [nickgaming: Set own game mode to Survival Mode]
+[21:53:49] [Server thread/INFO]: nickgaming issued server command: /gamemode c
+[21:53:49] [Server thread/INFO]: [nickgaming: Set own game mode to Creative Mode]
+[21:53:56] [Server thread/INFO]: nickgaming issued server command: /summon xp
+[21:53:56] [Server thread/WARN]: Skipping Entity with id xp
+[21:53:56] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:54:02] [Server thread/INFO]: nickgaming issued server command: /summon ender_dragon
+[21:54:02] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[21:54:02] [Server thread/INFO]: [nickgaming: Unable to summon object]
+[21:55:35] [Thread-11/INFO]: UUID of player Hifansimwill is 8bf1a6bb-1b80-3130-a83e-d17302f6f1d4
+[21:55:35] [Server thread/INFO]: Hifansimwill[/[0:0:0:0:0:0:0:1]:38486] logged in with entity id 1195 at ([world]112.5, 72.0, 211.5)
+[21:55:47] [Async Chat Thread - #0/INFO]: <Hifansimwill> hi[m
+
+[21:55:52] [Server thread/INFO]: Hifansimwill issued server command: /gamemode c
+[21:55:56] [Async Chat Thread - #0/INFO]: <Hifansimwill> gimme op[m
+
+[21:56:00] [Server thread/INFO]: [Server] imma op u
+[21:56:06] [Server thread/INFO]: Opped Hifansimwill
+[21:56:09] [Async Chat Thread - #0/INFO]: <Hifansimwill> gimme op[m
+
+[21:56:10] [Server thread/INFO]: Hifansimwill issued server command: /gamemode c
+[21:56:10] [Server thread/INFO]: [Hifansimwill: Set own game mode to Creative Mode]
+[21:56:12] [Async Chat Thread - #0/INFO]: <Hifansimwill> nice[m
+
+[21:56:23] [Async Chat Thread - #0/INFO]: <Hifansimwill> where is spawn so we can build hub[m
+
+[21:56:34] [Server thread/INFO]: nickgaming issued server command: /tp Hifansimwill 0 60 0
+[21:56:34] [Server thread/INFO]: [nickgaming: Teleported Hifansimwill to 0.5, 60.0, 0.5]
+[21:56:42] [Server thread/INFO]: nickgaming issued server command: /tp @p 0 60 0
+[21:56:42] [Server thread/INFO]: [nickgaming: Teleported nickgaming to 0.5, 60.0, 0.5]
+[21:56:52] [Server thread/INFO]: nickgaming issued server command: /tp @p ~ 100 ~
+[21:56:52] [Server thread/INFO]: [nickgaming: Teleported nickgaming to 0.5, 100.0, 0.5]
+[21:56:59] [Server thread/INFO]: nickgaming issued server command: /tp nickgaming Hifansimwill
+[21:56:59] [Server thread/INFO]: [nickgaming: Teleported nickgaming to Hifansimwill]
+[21:57:06] [Server thread/INFO]: nickgaming issued server command: /tp @p ~ 100 ~
+[21:57:06] [Server thread/INFO]: [nickgaming: Teleported nickgaming to 0.5, 100.0, 0.5]
+[21:57:10] [Server thread/INFO]: nickgaming issued server command: /tp Hifansimwill nickgaming
+[21:57:10] [Server thread/INFO]: [nickgaming: Teleported Hifansimwill to nickgaming]
+[21:57:16] [Async Chat Thread - #0/INFO]: <nickgaming> hiya[m
+
+[21:57:33] [Async Chat Thread - #0/INFO]: <nickgaming> i want to demolish this world[m
+
+[21:57:41] [Server thread/INFO]: nickgaming issued server command: /gamemode s Hifansimwill
+[21:57:41] [Server thread/INFO]: [nickgaming: Set Hifansimwill's game mode to Survival Mode]
+[21:57:51] [Server thread/INFO]: nickgaming issued server command: /gamemode survival Hifansimwill
+[21:57:51] [Server thread/INFO]: [nickgaming: Set Hifansimwill's game mode to Survival Mode]
+[21:57:57] [Server thread/INFO]: nickgaming issued server command: /gamemode Hifansimwill s
+[21:57:57] [Server thread/INFO]: [nickgaming: 'Hifansimwill' is not a valid number]
+[21:58:20] [Server thread/INFO]: Hifansimwill was slain by nickgaming
+[21:59:01] [Server thread/INFO]: Hifansimwill issued server command: /tp Hifansimwill
+[21:59:01] [Server thread/INFO]: [Hifansimwill: Teleported Hifansimwill to Hifansimwill]
+[21:59:06] [Server thread/INFO]: Hifansimwill issued server command: /tp nickgaming
+[21:59:06] [Server thread/INFO]: [Hifansimwill: Teleported Hifansimwill to nickgaming]
+[21:59:16] [Server thread/INFO]: Hifansimwill issued server command: /gamemode c
+[21:59:16] [Server thread/INFO]: [Hifansimwill: Set own game mode to Creative Mode]
+[22:00:14] [Server thread/INFO]: Hifansimwill has just earned the achievement [Taking Inventory]
+[22:00:15] [Async Chat Thread - #1/INFO]: <nickgaming> hiya[m
+
+[22:00:33] [Server thread/INFO]: Hifansimwill has just earned the achievement [Getting Wood]
+[22:00:42] [Async Chat Thread - #1/INFO]: <Hifansimwill> 0 0[m
+
+[22:00:49] [Server thread/INFO]: nickgaming issued server command: /achievement * hifansimwill
+[22:00:49] [Server thread/INFO]: [nickgaming: Unknown achievement or statistic 'hifansimwill']
+[22:01:00] [Async Chat Thread - #1/INFO]: <Hifansimwill> make platform or void ur choice[m
+
+[22:01:03] [Server thread/INFO]: nickgaming issued server command: /achievement * Hifansimwill
+[22:01:03] [Server thread/INFO]: [nickgaming: Unknown achievement or statistic 'Hifansimwill']
+[22:01:19] [Server thread/INFO]: nickgaming issued server command: /achievement Hifansimwill *
+[22:01:36] [Server thread/INFO]: nickgaming issued server command: /achievement *
+[22:01:43] [Server thread/INFO]: nickgaming issued server command: /achievement give * Hifansimwill
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Benchmarking]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Time to Mine!]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Hot Topic]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Acquire Hardware]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Time to Farm!]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Bake Bread]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [The Lie]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Getting an Upgrade]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Delicious Fish]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [On A Rail]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Time to Strike!]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Monster Hunter]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Cow Tipper]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [When Pigs Fly]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Sniper Duel]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [DIAMONDS!]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Diamonds to you!]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [We Need to Go Deeper]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Return to Sender]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Into Fire]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Local Brewery]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [The End?]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [The End.]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Enchanter]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Overkill]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Librarian]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Repopulation]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [The Beginning?]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [The Beginning.]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Beaconator]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Adventuring Time]
+[22:01:43] [Server thread/INFO]: Hifansimwill has just earned the achievement [Overpowered]
+[22:01:43] [Server thread/INFO]: [nickgaming: Successfully given all achievements to Hifansimwill]
+[22:02:07] [Server thread/INFO]: nickgaming issued server command: /tp Hifansimwill ~ 100 ~
+[22:02:07] [Server thread/INFO]: [nickgaming: Teleported Hifansimwill to 14.378416488024591, 100.0, -2.716993559232209]
+[22:02:14] [Server thread/INFO]: nickgaming issued server command: /gamemode s Hifansimwill
+[22:02:14] [Server thread/INFO]: [nickgaming: Set Hifansimwill's game mode to Survival Mode]
+[22:02:32] [Server thread/INFO]: Hifansimwill fell from a high place
+[22:03:45] [Server thread/INFO]: nickgaming issued server command: /setworldspawn
+[22:03:45] [Server thread/INFO]: [nickgaming: Set the world spawn point to (0, 101, 0)]
+[22:04:20] [Server thread/INFO]: nickgaming issued server command: /gamemode s
+[22:04:20] [Server thread/INFO]: [nickgaming: Set own game mode to Survival Mode]
+[22:04:21] [Async Chat Thread - #2/INFO]: <Hifansimwill> bruh[m
+
+[22:04:25] [Server thread/INFO]: Hifansimwill issued server command: /gamemode c
+[22:04:25] [Server thread/INFO]: [Hifansimwill: Set own game mode to Creative Mode]
+[22:04:31] [Server thread/INFO]: Hifansimwill issued server command: /deop nickgaming
+[22:04:31] [Server thread/INFO]: [Hifansimwill: De-opped nickgaming]
+[22:04:33] [Server thread/INFO]: nickgaming issued server command: /gamemode c
+[22:04:39] [Async Chat Thread - #2/INFO]: <Hifansimwill> did that work?[m
+
+[22:04:43] [Async Chat Thread - #2/INFO]: <nickgaming> yes w ill[m
+
+[22:04:49] [Server thread/INFO]: Hifansimwill issued server command: /op nickgaming
+[22:04:49] [Server thread/INFO]: [Hifansimwill: Opped nickgaming]
+[22:05:06] [Server thread/INFO]: Hifansimwill lost connection: i know you opped me back but dont even try it again
+[22:05:06] [Server thread/INFO]: Hifansimwill left the game.
+[22:05:06] [Server thread/INFO]: Kicked Hifansimwill from the game: 'i know you opped me back but dont even try it again'
+[22:05:06] [Server thread/WARN]: handleDisconnection() called twice
+[22:05:13] [Server thread/INFO]: nickgaming issued server command: /gamemode c
+[22:05:13] [Server thread/INFO]: [nickgaming: Set own game mode to Creative Mode]
+[22:06:23] [Thread-12/INFO]: UUID of player Hifansimwill is 8bf1a6bb-1b80-3130-a83e-d17302f6f1d4
+[22:06:23] [Server thread/INFO]: Hifansimwill[/[0:0:0:0:0:0:0:1]:38876] logged in with entity id 1929 at ([world]1.229091119873902, 135.85456940380558, 0.30199283175455105)
+[22:11:29] [Server thread/INFO]: nickgaming lost connection: Disconnected
+[22:11:29] [Server thread/INFO]: nickgaming left the game.
+[22:17:30] [Server thread/INFO]: Hifansimwill lost connection: MATINENCE
+[22:17:30] [Server thread/INFO]: Hifansimwill left the game.
+[22:17:30] [Server thread/INFO]: Kicked Hifansimwill from the game: 'MATINENCE'
+[22:17:30] [Server thread/WARN]: handleDisconnection() called twice
+[22:17:38] [Server thread/INFO]: Usage: /whitelist <on|off|list|add|remove|reload>
+[22:17:46] [Server thread/INFO]: Turned on the whitelist
+[22:17:53] [Server thread/INFO]: Added nickgaming to the whitelist
+[22:18:33] [Server thread/INFO]: De-opped hifansimwill
+[22:18:51] [Thread-14/INFO]: UUID of player nickgaming is 0c9d3281-42e9-3f07-a536-0332b12f4238
+[22:18:51] [Server thread/INFO]: nickgaming[/[0:0:0:0:0:0:0:1]:35980] logged in with entity id 2413 at ([world]0.9138565267480722, 101.0, 0.44393863725374244)
+[22:19:28] [Server thread/INFO]: nickgaming issued server command: /clear
+[22:19:28] [Server thread/INFO]: [nickgaming: Cleared the inventory of nickgaming, removing 3 items]
+[22:19:50] [Server thread/INFO]: nickgaming lost connection: Disconnected
+[22:19:50] [Server thread/INFO]: nickgaming left the game.
+[22:20:22] [Thread-15/INFO]: UUID of player Hifansimwill is 8bf1a6bb-1b80-3130-a83e-d17302f6f1d4
+[22:20:22] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c151390[id=8bf1a6bb-1b80-3130-a83e-d17302f6f1d4,name=Hifansimwill,properties={textures=[com.mojang.authlib.properties.Property@35c4ef0d], isEaglerPlayer=[com.mojang.authlib.properties.Property@6ee8b43d]},legacy=false] (/[0:0:0:0:0:0:0:1]:46610): You are not whitelisted on this server!
+[22:20:22] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c151390[id=8bf1a6bb-1b80-3130-a83e-d17302f6f1d4,name=Hifansimwill,properties={textures=[com.mojang.authlib.properties.Property@35c4ef0d], isEaglerPlayer=[com.mojang.authlib.properties.Property@6ee8b43d]},legacy=false] (/[0:0:0:0:0:0:0:1]:46610): You are not whitelisted on this server!
+[22:20:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c151390[id=8bf1a6bb-1b80-3130-a83e-d17302f6f1d4,name=Hifansimwill,properties={textures=[com.mojang.authlib.properties.Property@35c4ef0d], isEaglerPlayer=[com.mojang.authlib.properties.Property@6ee8b43d]},legacy=false] (/[0:0:0:0:0:0:0:1]:46610) lost connection: You are not whitelisted on this server!
+[22:20:38] [Server thread/INFO]: Turned off the whitelist
+[22:20:42] [Thread-16/INFO]: UUID of player nickgaming is 0c9d3281-42e9-3f07-a536-0332b12f4238
+[22:20:42] [Server thread/INFO]: nickgaming[/[0:0:0:0:0:0:0:1]:47730] logged in with entity id 2500 at ([world]0.5706101035893411, 71.0, 36.63601760937493)
+[22:21:15] [Thread-17/INFO]: UUID of player Hifansimwill is 8bf1a6bb-1b80-3130-a83e-d17302f6f1d4
+[22:21:15] [Server thread/INFO]: Hifansimwill[/[0:0:0:0:0:0:0:1]:60788] logged in with entity id 2501 at ([world]0.13671426001773246, 101.0, 0.4598178865625146)
+[22:22:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[22:22:22] [Server thread/INFO]: nickgaming issued server command: /achievements remove
+[22:22:24] [Server thread/INFO]: nickgaming issued server command: /achievements
+[22:22:28] [Server thread/INFO]: nickgaming issued server command: /achievements
+[22:22:32] [Server thread/INFO]: nickgaming issued server command: /help
+[22:22:37] [Server thread/INFO]: nickgaming issued server command: /help minecraft
+[22:22:51] [Server thread/INFO]: nickgaming issued server command: /achievement
+[22:22:57] [Server thread/INFO]: nickgaming issued server command: /achievement take * Hifansimwill
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Overpowered]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Adventuring Time]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Beaconator]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [The Beginning.]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [The Beginning?]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Repopulation]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Librarian]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Overkill]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Enchanter]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [The End.]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [The End?]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Local Brewery]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Into Fire]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Return to Sender]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [We Need to Go Deeper]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Diamonds to you!]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [DIAMONDS!]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Sniper Duel]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [When Pigs Fly]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Cow Tipper]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Monster Hunter]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Time to Strike!]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [On A Rail]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Delicious Fish]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Getting an Upgrade]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [The Lie]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Bake Bread]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Time to Farm!]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Acquire Hardware]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Hot Topic]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Time to Mine!]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Benchmarking]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Getting Wood]
+[22:22:57] [Server thread/INFO]: Hifansimwill has lost the achievement [Taking Inventory]
+[22:22:57] [Server thread/INFO]: [nickgaming: Successfully taken all achievements from Hifansimwill]
+[22:23:01] [Server thread/INFO]: nickgaming issued server command: /achievement take * Nickgaming
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Overpowered]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Adventuring Time]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Beaconator]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [The Beginning.]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [The Beginning?]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Repopulation]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Librarian]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Overkill]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Enchanter]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [The End.]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [The End?]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Local Brewery]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Into Fire]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Return to Sender]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [We Need to Go Deeper]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Diamonds to you!]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [DIAMONDS!]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Sniper Duel]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [When Pigs Fly]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Cow Tipper]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Monster Hunter]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Time to Strike!]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [On A Rail]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Delicious Fish]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Getting an Upgrade]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [The Lie]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Bake Bread]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Time to Farm!]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Acquire Hardware]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Hot Topic]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Time to Mine!]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Benchmarking]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Getting Wood]
+[22:23:01] [Server thread/INFO]: nickgaming has lost the achievement [Taking Inventory]
+[22:23:01] [Server thread/INFO]: [nickgaming: Successfully taken all achievements from nickgaming]
+[22:23:10] [Server thread/INFO]: nickgaming issued server command: /gamemode s Hifansimwill
+[22:23:10] [Server thread/INFO]: [nickgaming: Set Hifansimwill's game mode to Survival Mode]
+[22:23:23] [Server thread/INFO]: nickgaming issued server command: /gamemode s
+[22:23:23] [Server thread/INFO]: [nickgaming: Set own game mode to Survival Mode]
+[22:23:27] [Server thread/INFO]: nickgaming issued server command: /tpa Hifansimwill
+[22:23:34] [Server thread/INFO]: Hifansimwill issued server command: /tpaccpet
+[22:23:43] [Server thread/INFO]: Hifansimwill issued server command: /tpaccept
+[22:24:59] [Server thread/INFO]: Added Hifansimwill to the whitelist
+[22:25:03] [Server thread/INFO]: Turned off the whitelist
+[22:25:08] [Server thread/INFO]: Turned on the whitelist
